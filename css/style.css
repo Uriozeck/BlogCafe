@@ -45,6 +45,7 @@ img { max-width: 100%; }
 .centar-texto { text-align: center; }
 
 /*  */
+/* El webp se usa despues de instalar normalizr */
 .webp .header {
     background-image: url(../img/banner.webp);
 }
